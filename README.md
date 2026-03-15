@@ -1,5 +1,9 @@
 # web_phaser_vite_smart-phone_game-sample
 
+プレビュー: https://t-tonyo-maru.github.io/web_phaser_vite_smart-phone_game-sample/
+
+※スマートフォンでアクセスしてください
+
 ## クイックスタート
 
 1. 手元の環境を Node.js `v24` 以上にする
