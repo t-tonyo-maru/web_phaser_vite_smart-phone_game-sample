@@ -1,0 +1,31 @@
+{
+  "name": "web_phaser_vite_smart-phone_game-sample",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:host": "vite --host",
+    "lint": "npx @biomejs/biome check ./src",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "format": "npx @biomejs/biome check --write ./src",
+    "test": "run-p test:*",
+    "test:utils": "vitest run src/utils"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.4.7",
+    "@types/node": "^25.5.0",
+    "npm-run-all2": "^8.0.4",
+    "typescript": "~5.9.3",
+    "vite": "^8.0.0",
+    "vitest": "^4.1.0"
+  },
+  "dependencies": {
+    "phaser": "^3.90.0",
+    "reset.css": "^2.0.2"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
