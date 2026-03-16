@@ -1,6 +1,6 @@
-# web_phaser_vite_smart-phone_game-sample
+# pub_web_phaser_vite_smart-phone_game-sample
 
-プレビュー: https://t-tonyo-maru.github.io/web_phaser_vite_smart-phone_game-sample/
+プレビュー: https://t-tonyo-maru.github.io/pub_web_phaser_vite_smart-phone_game-sample/
 
 ※スマートフォンでアクセスしてください
 
